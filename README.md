@@ -21,7 +21,7 @@
 ![image](https://github.com/user-attachments/assets/d423f022-a7bf-46c6-ad70-e81594bf1e59)
 
 # Phishing para captura de senhas do Facebook pelo Zphisher
-### Por conta do setoolkit não estar pegando corretamente a senha na hora do phishing decidir usar o Zphisher
+### Por conta do setoolkit não estar pegando corretamente a senha na hora do phishing decidi usar o Zphisher
 
 ### Configurando o Zphisher no Kali Linux
 
